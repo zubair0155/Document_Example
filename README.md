@@ -57,7 +57,7 @@ Create an interactive dashboard to track key business KPIs.
 - Regional performance
 
 **Tools:** Power BI
-https://github.com/zubair0155/Document_Example/blob/main/Screenshot%20(5).png?raw=true
+![image alt](https://github.com/zubair0155/Document_Example/blob/4f837db4f4dd83db61d597aab9a35b3fe31f9b4f/Screenshot%20(5).png)
 
 ## What I Can Do
 - Clean & prepare raw data

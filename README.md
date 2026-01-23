@@ -58,7 +58,7 @@ Create an interactive dashboard to track key business KPIs.
 
 **Tools:** Power BI
 ![image alt](https://github.com/zubair0155/Document_Example/blob/4f837db4f4dd83db61d597aab9a35b3fe31f9b4f/Screenshot%20(5).png)
-
+![image alt]
 ## What I Can Do
 - Clean & prepare raw data
 - Perform exploratory data analysis
